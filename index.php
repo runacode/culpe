@@ -1,7 +1,7 @@
-<?php $company = "SHERRY HILL PAINTING LLC";
-$phone = "(631) 968-6669";
-	$address1 = "1102 QUEENS PLZ S";
-	$address2 = "LONG ISLAND CITY, NY 11101";
+<?php $company = "CULPEPPERS AUTOMOTIVE";
+$phone = "(281) 421-0020";
+	$address1 = "20711 APPALOOSA TRL";
+	$address2 = "CROSBY, TX 77532";
 ?>
 <!DOCTYPE html>
 <html style="font-size: 16px;">
@@ -73,8 +73,8 @@ $phone = "(631) 968-6669";
                     
                   </div>
                 </div>
-                <h3 class="u-text u-text-7">Contact us</h3>
-                <h6 class="u-text u-text-8">Tell us about your project!</h6>
+                <h3 class="u-text u-text-7">Hey there!!!</h3>
+                <h6 class="u-text u-text-8">Don't hesitate to contact us!</h6>
               </div>
             </div>
           </div>
